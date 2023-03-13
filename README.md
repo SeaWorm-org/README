@@ -30,6 +30,8 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
     - credential: envoie les moyens de paiement enregistrés sur les navigateurs
     - session: envoie les cookies de session ID
     - social: envoie tous les comptes de l'utilisateur appartenant à des réseaux sociaux
+    - token: envoie tous les tokens de l'utilisateurs et leurs informations comme l'exemple ci-dessous
+    
     - apps: envoie toutes les applications installées sur la machine
     - locate: envoie les coordonnées GPS au serveur web
 
