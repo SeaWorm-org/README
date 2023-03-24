@@ -39,7 +39,7 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
   > Commandes disponibles:
 
     - explore: affiche les éléments d'un dossier
-    - read: lit un fichier
+    - read: affiche le contenu d'un fichier
     - stats: affiche les informations d'un fichier/dossier
     - remove: supprime un fichier
     - rename: renomme un fichier/dossier
@@ -74,7 +74,7 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
 ## Remote admin tool
 > Fonctionnalités:
 
-    - SHELL: permet d'effectuer des commandes en temps réel
+    - SHELL: permet d'effectuer des commandes en temps réel ( toutes les commandes sont effectué dans le même invite de commandes en arrière plan ) 
 
 ## SeaWorm Desktop ( golang )
 > Commandes disponibles:
