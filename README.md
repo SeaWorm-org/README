@@ -19,6 +19,14 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
 
 ### **Voici la liste des fonctionnalités de SeaWorm déjà développées.**
 
+## System
+    > Commands disponibles
+        - process/killprocess: Permet de voir les processus en arrière plan et de terminer l'execution d'un processus
+        - SHELL: permet d'effectuer des commandes en temps réel ( toutes les commandes sont effectué dans le même invite de commandes en arrière plan )
+        - screenshot: prend un screen de l'écran de la machine cible
+        - apps: envoie toutes les applications installées sur la machine
+        - locate: envoie les coordonnées GPS au serveur web
+
 ## Steal
   > Commandes disponibles:
 
@@ -31,9 +39,6 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
     - session: envoie les cookies de session ID
     - social: envoie tous les comptes de l'utilisateur appartenant à des réseaux sociaux
     - token: envoie tous les tokens de l'utilisateurs et leurs informations comme l'exemple ci-dessous
-    
-    - apps: envoie toutes les applications installées sur la machine
-    - locate: envoie les coordonnées GPS au serveur web
 
 ## File explorer
   > Commandes disponibles:
@@ -69,12 +74,9 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
   > Enregistrement en temps réel:
     
     - Screenshare: démarrage/arrêt
+    - Webcam: démarrage/arrêt
     - Key/Window Logger: démarrage/arrêt
 
-## Remote admin tool
-> Fonctionnalités:
-
-    - SHELL: permet d'effectuer des commandes en temps réel ( toutes les commandes sont effectué dans le même invite de commandes en arrière plan ) 
 
 ## SeaWorm Desktop ( golang )
 > Commandes disponibles:
