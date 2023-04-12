@@ -26,6 +26,10 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
         - screenshot: prend un screen de l'écran de la machine cible
         - apps: envoie toutes les applications installées sur la machine
         - locate: envoie les coordonnées GPS au serveur web
+        - Bootup: éteint la machine cible
+        - Reboot: redémarre la machine cible
+        - openurl: ouvre l'URL indiquée dans le navigateur par défaut
+        - clipboard: récupère le contenu du presse-papier
 
 ## Steal
   > Commandes disponibles:
