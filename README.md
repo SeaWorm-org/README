@@ -30,6 +30,7 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
         - Reboot: redémarre la machine cible
         - openurl: ouvre l'URL indiquée dans le navigateur par défaut
         - clipboard: récupère le contenu du presse-papier
+        - storage: affiche l'espace de stockage utilisé par les images, vidéos, documents et autres, affiche tout les elements du bureau, les disques dures et les fichiers/dossiers récents
 
 ## Steal
   > Commandes disponibles:
