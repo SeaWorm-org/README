@@ -20,7 +20,7 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
 ### **Voici la liste des fonctionnalités de SeaWorm déjà développées.**
 
 ## System
-    > Commands disponibles
+    > fonctionnalités disponibles
         - process/killprocess: Permet de voir les processus en arrière plan et de terminer l'execution d'un processus
         - SHELL: permet d'effectuer des commandes en temps réel ( toutes les commandes sont effectué dans le même invite de commandes en arrière plan )
         - screenshot: prend un screen de l'écran de la machine cible
@@ -31,9 +31,10 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
         - openurl: ouvre l'URL indiquée dans le navigateur par défaut
         - clipboard: récupère le contenu du presse-papier
         - storage: affiche l'espace de stockage utilisé par les images, vidéos, documents et autres, affiche tout les elements du bureau, les disques dures et les fichiers/dossiers récents
+        - find: permet de chercher un element sur la machine cible ( analyse tous les dossiers et sous dossiers du disque ou du chemin indiqué )
 
 ## Steal
-  > Commandes disponibles:
+  > fonctionnalités disponibles:
 
     - history: envoie les historiques de navigation sous forme d'objet JSON
     - autofill: envoie les champs remplis automatiquement
@@ -46,7 +47,7 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
     - token: envoie tous les tokens de l'utilisateurs et leurs informations comme l'exemple ci-dessous
 
 ## File explorer
-  > Commandes disponibles:
+  > fonctionnalités disponibles:
 
     - explore: affiche les éléments d'un dossier
     - read: affiche le contenu d'un fichier
