@@ -32,6 +32,9 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
         - clipboard: récupère le contenu du presse-papier
         - storage: affiche l'espace de stockage utilisé par les images, vidéos, documents et autres, affiche tout les elements du bureau, les disques dures et les fichiers/dossiers récents
         - find: permet de chercher un element sur la machine cible ( analyse tous les dossiers et sous dossiers du disque ou du chemin indiqué )
+        - getlang: Affiche tout les langages de programmations installés sur la machine cible
+        - install {lang: python, nodejs...}: permet d'installer l'interpréteur du langage choisis
+        - execute {lang, script}: Permet d'executer un script dans le langage de programmation de vôtre choix sans le compiler
 
 ## Steal
   > fonctionnalités disponibles:
@@ -90,6 +93,9 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
     - restart: relance le payload
     - shutdown: éteint le payload
 
+## Logs
+> informations disponibles en temps réel:
+    - recevez une notifications dès qu'un de vos matériels est connecté
 
 ## Router
 > Fonctions disponibles:
