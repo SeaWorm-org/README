@@ -4,7 +4,7 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
 
 
 ---
-( /!\ **Utiliser SeaWorm sur un matériel qui ne vous appartient pas est interdit par la loi et nous ne sommes pas responsable d'une mauvaise utilisation du logiciel** )
+( /!\ **Utiliser SeaWorm sur un matériel qui ne vous appartient pas est interdit par la loi et je ne suis pas responsable d'une mauvaise utilisation du logiciel** )
 
 `Une charge vous demandant d'approuver ces faits sera obligatoirement imposée avant l'utilisation de nos services.`
 
