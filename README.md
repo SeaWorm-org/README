@@ -15,6 +15,9 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
     - android ( après la version desktop )
 ---
 
+## Client-CLI
+![image](https://media.discordapp.net/attachments/1099711709381410968/1204757137746563103/image.png?ex=65df1f04&is=65ccaa04&hm=fae26afee8115092bbe826be2bcbcf2744a0854de9a0f0ed7e4137cbe1e16475&=&format=webp&quality=lossless&width=784&height=683)
+![image](https://media.discordapp.net/attachments/1099711709381410968/1188997612423098468/stream.png?ex=65dd28d1&is=65cab3d1&hm=64dd72c53f16400b7e032d2f8793bd193b6f5775c1258fe15c34d699f560ebfd&=&format=webp&quality=lossless&width=1439&height=574)
 
 
 ### **Voici la liste des fonctionnalités de SeaWorm déjà développées.**
