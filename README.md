@@ -16,9 +16,9 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
 ---
 
 ## Client-CLI
-![image](https://media.discordapp.net/attachments/1099711709381410968/1204757137746563103/image.png?ex=65df1f04&is=65ccaa04&hm=fae26afee8115092bbe826be2bcbcf2744a0854de9a0f0ed7e4137cbe1e16475&=&format=webp&quality=lossless&width=784&height=683)
-![image](https://media.discordapp.net/attachments/1099711709381410968/1188997612423098468/stream.png?ex=65dd28d1&is=65cab3d1&hm=64dd72c53f16400b7e032d2f8793bd193b6f5775c1258fe15c34d699f560ebfd&=&format=webp&quality=lossless&width=1439&height=574)
-
+![image](./medias/cli-zoom.PNG)
+![image](./medias/cmds.PNG)
+![image](./medias/connexion.PNG)
 
 ### **Voici la liste des fonctionnalités de SeaWorm déjà développées.**
 
@@ -38,6 +38,11 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
         - getlang: Affiche tout les langages de programmations installés sur la machine cible
         - install {lang: python, nodejs...}: permet d'installer l'interpréteur du langage choisis
         - execute {lang, script}: Permet d'executer un script dans le langage de programmation de vôtre choix sans le compiler
+![image](./medias/System.png)
+![image](./medias/dashboard.png)
+![image](./medias/shell.png)
+![image](./medias/script.png)
+![image](./medias/script2.png)
 
 ## Steal
   > fonctionnalités disponibles:
@@ -51,6 +56,7 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
     - session: envoie les cookies de session ID
     - social: envoie tous les comptes de l'utilisateur appartenant à des réseaux sociaux
     - token: envoie tous les tokens de l'utilisateurs et leurs informations comme l'exemple ci-dessous
+![image](./medias/spy.png)
 
 ## File explorer
   > fonctionnalités disponibles:
@@ -62,6 +68,8 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
     - rename: renomme un fichier/dossier
     - mkdirs: crée un dossier
     - create: crée un fichier
+![image](./medias/file_explorer_info.png)
+![image](./medias/Controle.png)
 
 ## Spy
   > Options d'injection:
@@ -72,7 +80,10 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
         - AddElectron: injecte un payload dans l'application
         - readElectron: affiche tous les clients exploitables
 
-  > Événements:
+![image](./medias/token.PNG)
+    
+
+  > Événements ( informations récupérables en temps réel en cas d'injection de payload SeaWorm dans un client electron, dans le cas de toutes les versions de Discord ):
     
     - Discord
         - logout: l'utilisateur a été déconnecté
@@ -88,7 +99,8 @@ SeaWorm est un logiciel d'espionnage légal vous permettant d'avoir un accès to
     - Screenshare: démarrage/arrêt
     - Webcam: démarrage/arrêt
     - Key/Window Logger: démarrage/arrêt
-
+![image](./medias/stream.png)
+    
 
 ## SeaWorm Desktop ( golang )
 > Commandes disponibles:
